@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Front (React) https://react.dev/
+Back (Nestjs) https://nestjs.com/
+Mobile Multiplatform (Kotlin) https://kotlinlang.org/
+Database Postgres https://www.postgresql.org/
+GraphQl https://graphql.org/
+Apollo https://www.apollographql.com/
+Astro https://astro.build/
 <!--
 **SIEK-Access/SIEK-Access** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
